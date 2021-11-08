@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learning and sofering with React testing new sync
+          Learning and sofering with React testing new  new new sync
         </a>
       </header>
     </div>
